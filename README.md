@@ -113,5 +113,3 @@ High-level KPIs and comparative analysis.
 
 ---
 
-## 📂 Repository Structure
-
