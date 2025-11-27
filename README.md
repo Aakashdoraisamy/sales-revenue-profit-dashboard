@@ -56,7 +56,7 @@ High-level KPIs and comparative analysis.
 - Region, Country, Item Type & Sales Channel Slicers  
 
 **📸 Screenshot**  
-![Dashboard Page 1](images.png)
+![Dashboard Page 1](image_1.png)
 
 ---
 
@@ -71,7 +71,7 @@ High-level KPIs and comparative analysis.
 - Profit Heatmap (Region × Country)
 
 **📸 Screenshot**  
-![Dashboard Page 2](images.png)
+![Dashboard Page 2](image_2.png)
 
 ---
 
@@ -84,7 +84,7 @@ High-level KPIs and comparative analysis.
 - Revenue by Order Date & Sales Channel  
 
 **📸 Screenshot**  
-![Dashboard Page 3](images.png)
+![Dashboard Page 3](image_3.png)
 
 ---
 
